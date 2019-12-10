@@ -4,7 +4,7 @@ Python scritps for rendering and distance analysis of proteins (proteasome) and 
 These scritps have been developed for being run in Linux 64bit platform with python 2.7.13. It also requires to have installed the next packages:
   - Additional software packages:
     + pyto (Lučić et al., 2016, PMID: 27742578 DOI: 10.1016/j.jsb.2016.10.004)
-    + pyseg (https://github.com/anmartinezs/pyseg.git)
+    + pyseg (https://github.com/anmartinezs/pyseg-poly-GA.git)
     
 render_sub_tomo.py
 
